@@ -1,5 +1,7 @@
 # Terraform Provider for Cloudflare Tunnels (Training Project)
 
+[![Go](https://github.com/soulnai/cloudflare_tf_provider/actions/workflows/go.yml/badge.svg)](https://github.com/soulnai/cloudflare_tf_provider/actions/workflows/go.yml)
+
 > **DISCLAIMER**: This is a **training project** created for educational purposes to learn how to build Terraform providers using the Terraform Plugin Framework. It is **NOT** intended for production use. For production, please use the official [Cloudflare Terraform Provider](https://registry.terraform.io/providers/cloudflare/cloudflare/latest).
 
 ## Overview
